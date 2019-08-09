@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <p className="App-Intro">Ola WITHOUT ANYTHING!</p>
+      <p className="App-Intro">Hello Verena!</p>
     </div>
   );
 }
